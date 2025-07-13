@@ -1,0 +1,16 @@
+<svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="&#240;&#159;&#166;&#134; icon &#34;coin&#34;">
+<path id="Vector" d="M18 35C27.3888 35 35 27.3888 35 18C35 8.61116 27.3888 1 18 1C8.61116 1 1 8.61116 1 18C1 27.3888 8.61116 35 18 35Z" stroke="url(#paint0_linear_6_120)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M23.1 12.05C21.9355 10.8855 19.8848 10.0755 18 10.0248M18 10.0248C15.7575 9.96449 13.75 10.979 13.75 13.75C13.75 18.85 23.1 16.3 23.1 21.4C23.1 24.3087 20.6115 25.5586 18 25.4647M18 10.0248V6.95001M12.9 23.1C13.9956 24.5608 16.0328 25.394 18 25.4647M18 25.4647V29.05" stroke="url(#paint1_linear_6_120)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_6_120" x1="18" y1="1" x2="18" y2="35" gradientUnits="userSpaceOnUse">
+<stop stop-color="#C7B77B"/>
+<stop offset="1" stop-color="#61593C"/>
+</linearGradient>
+<linearGradient id="paint1_linear_6_120" x1="18" y1="6.95001" x2="18" y2="29.05" gradientUnits="userSpaceOnUse">
+<stop stop-color="#C7B77B"/>
+<stop offset="1" stop-color="#61593C"/>
+</linearGradient>
+</defs>
+</svg>
